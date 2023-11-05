@@ -1,4 +1,4 @@
-# awesome-collection
+# Awesome Collection
 ## System
 * 문씨 블로그: http://jake.dothome.co.kr/
 ## Graphics
